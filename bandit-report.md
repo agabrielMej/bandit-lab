@@ -27,3 +27,8 @@ Se realizó una búsqueda a nivel del sistema usando find, filtrando por usuario
 
 Nivel 7
 Se utilizó el comando grep para buscar una línea específica que contenía una palabra clave dentro de un archivo extenso.
+
+Nivel 8
+El archivo contenía múltiples líneas duplicadas y solo una línea única. Para identificarla, se ordenó el contenido del archivo y se filtraron las líneas que aparecían una sola vez.
+
+Nivel 9
