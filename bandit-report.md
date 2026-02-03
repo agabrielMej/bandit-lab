@@ -17,3 +17,6 @@ Nivel 3
 Se ingresó a un directorio específico y se listaron todos los archivos, incluidos los ocultos, para identificar el archivo que contenía la información requerida.
 
 Nivel 4
+Se encontraron múltiples archivos y se utilizó el comando file para identificar cuál de ellos contenía texto legible, descartando los archivos binarios.
+
+Nivel 5
