@@ -34,3 +34,5 @@ El archivo contenía múltiples líneas duplicadas y solo una línea única. Par
 Nivel 9
 El archivo no contenía texto legible directamente, por lo que se utilizó el comando strings para extraer cadenas de texto. Posteriormente, se filtraron los resultados para localizar la información relevante.
 
+Nivel 10
+El contenido del archivo se encontraba codificado en Base64, por lo que fue necesario decodificarlo para poder leer la información original y obtener la contraseña.
