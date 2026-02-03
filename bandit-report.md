@@ -13,3 +13,7 @@ Se identificó un archivo con un nombre especial que podía interpretarse como u
 Nivel 2 
 Se localizó un archivo cuyo nombre contenía espacios. Para poder acceder a él, se utilizaron comillas al momento de leer el archivo.
 
+Nivel 3
+Se ingresó a un directorio específico y se listaron todos los archivos, incluidos los ocultos, para identificar el archivo que contenía la información requerida.
+
+Nivel 4
