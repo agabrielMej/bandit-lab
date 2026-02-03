@@ -10,3 +10,6 @@ Se estableció una conexión SSH al servidor Bandit y se listaron los archivos d
 Nivel 1
 Se identificó un archivo con un nombre especial que podía interpretarse como una opción de comando, por lo que fue necesario especificar su ruta explícitamente.
 
+Nivel 2 
+Se localizó un archivo cuyo nombre contenía espacios. Para poder acceder a él, se utilizaron comillas al momento de leer el archivo.
+
