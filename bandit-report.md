@@ -24,3 +24,6 @@ Se utilizó el comando find para localizar un archivo que cumpliera con ciertas 
 
 Nivel 6
 Se realizó una búsqueda a nivel del sistema usando find, filtrando por usuario, grupo y tamaño del archivo.
+
+Nivel 7
+Se utilizó el comando grep para buscar una línea específica que contenía una palabra clave dentro de un archivo extenso.
