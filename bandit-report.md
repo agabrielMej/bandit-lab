@@ -1,0 +1,11 @@
+Bandit – Reporte de Progreso
+
+Objetivo general:
+Resolver los niveles del wargame Bandit encontrando las contraseñas de cada nivel mediante la exploración de archivos y directorios, 
+utilizando distintos comandos de la línea de comandos en Linux.
+
+Nivel 0
+Se estableció una conexión SSH al servidor Bandit y se listaron los archivos del directorio personal. La contraseña se encontraba en un archivo de texto visible.
+
+
+
