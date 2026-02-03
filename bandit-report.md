@@ -20,3 +20,4 @@ Nivel 4
 Se encontraron múltiples archivos y se utilizó el comando file para identificar cuál de ellos contenía texto legible, descartando los archivos binarios.
 
 Nivel 5
+Se utilizó el comando find para localizar un archivo que cumpliera con ciertas condiciones como tamaño, permisos y tipo.
