@@ -21,3 +21,6 @@ Se encontraron múltiples archivos y se utilizó el comando file para identifica
 
 Nivel 5
 Se utilizó el comando find para localizar un archivo que cumpliera con ciertas condiciones como tamaño, permisos y tipo.
+
+Nivel 6
+Se realizó una búsqueda a nivel del sistema usando find, filtrando por usuario, grupo y tamaño del archivo.
