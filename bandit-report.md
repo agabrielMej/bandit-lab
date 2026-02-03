@@ -32,3 +32,5 @@ Nivel 8
 El archivo contenía múltiples líneas duplicadas y solo una línea única. Para identificarla, se ordenó el contenido del archivo y se filtraron las líneas que aparecían una sola vez.
 
 Nivel 9
+El archivo no contenía texto legible directamente, por lo que se utilizó el comando strings para extraer cadenas de texto. Posteriormente, se filtraron los resultados para localizar la información relevante.
+
